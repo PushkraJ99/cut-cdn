@@ -47,7 +47,8 @@ This is a handy tool for bug hunters.
 #### From GitHub:
 ```bash
 git clone https://github.com/PushkraJ99/cut-cdn
-cd cut-cdn; go build
+cd cut-cdn
+go build
 sudo mv cut-cdn /usr/local/bin
 
 cut-cdn
