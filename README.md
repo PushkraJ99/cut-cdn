@@ -51,7 +51,7 @@ cd cut-cdn
 go build
 sudo mv cut-cdn /usr/local/bin
 
-cut-cdn
+cut-cdn -h
 ```
 - Now you can use cut-cdn as any other Linux Tool from any Terminal without opening tool clone Directory / Folder
 
