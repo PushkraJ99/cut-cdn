@@ -36,10 +36,23 @@ This is a handy tool for bug hunters.
 * Sucuri
 * X4B
 
-## Installation
+# Installation
+
+#### From Source
+```bash
+ go install github.com/PushkraJ99/cut-cdn@latest
+
 ```
-go install github.com/ImAyrix/cut-cdn@latest
+
+#### From GitHub:
+```bash
+git clone github.com/PushkraJ99/cut-cdn
+cd cut-cdn; go build
+sudo mv cut-cdn /usr/local/bin
+
+cut-cdn
 ```
+- Now you can use cut-cdn as any other Linux Tool from any Terminal without opening tool clone Directory / Folder
 
 
 ## Usage Parameters
@@ -95,3 +108,29 @@ Check your IP list with the latest IP ranges of CDN providers:
     ```bash
    cut-cdn -i allIP.txt -o output.txt -t 20 -c allCIDR.txt
    ```
+
+
+## 🌐 Socials : Follow Me Here For More
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/you_are_not_goodlooking_but_he)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=PushkraJ99) 
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PushkraJ99)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23D42029.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/PushkaraJ)
+
+
+
+## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
+
+<p align="center">
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+</p><br>
+
+[![](https://visitcount.itsvg.in/api?id=PushkraJ99&icon=8&color=12)](https://visitcount.itsvg.in)
+
+<p align="center"> 
+  <b> Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/PushkraJ99/count.svg" />
+</p><br>
